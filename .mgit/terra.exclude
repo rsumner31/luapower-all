@@ -1,6 +1,0 @@
-*
-!csrc/
-!csrc/terra/
-!csrc/terra/*
-csrc/terra/terra
-csrc/terra/*.zip

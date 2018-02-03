@@ -1,6 +1,0 @@
-*
-!winapi/
-!winapi/**
-winapi/wgl*
-winapi/gl*
-winapi/cairo*
